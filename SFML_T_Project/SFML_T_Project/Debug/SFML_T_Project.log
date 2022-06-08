@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(117,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(127,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(152,16): warning C4305: =: усечение из "double" в "float"
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(219,14): warning C4305: =: усечение из "double" в "float"
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(229,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(229,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(235,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\wpadpwdldalwfpwpf\SFML_T_Project\SFML_T_Project\Source.cpp(235,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML_T_Project.vcxproj -> D:\wpadpwdldalwfpwpf\SFML_T_Project\Debug\SFML_T_Project.exe
